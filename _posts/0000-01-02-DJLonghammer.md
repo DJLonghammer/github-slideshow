@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Booty juice
+Booty juice 2.0
 Use the left arrow to go back!
